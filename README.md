@@ -134,6 +134,3 @@ Can contain the following options:
   }
   ];
 
-## You can donate to support me
-
-https://www.blockchain.com/btc/address/15c5AxBVgNxkwaHSTBZMiCV5PL41DKe88v
